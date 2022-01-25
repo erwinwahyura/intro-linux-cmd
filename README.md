@@ -26,19 +26,19 @@ There are a lot of way to run linux
 ## Command Line
 ```
 Command		What it does
-pwd		    show me where I am in the file system (initially, this will be your home directory)
+pwd		   show me where I am in the file system (initially, this will be your home directory)
 
-ls		    list my files
+ls		   list my files
 
 ls -a		list even more of my files (including those that start with a period)
 
 ls -al		list my files with lots of details (including dates, file sizes and permissions)
 
-who		    show me who is logged in (don’t be disappointed if it’s only you)
+who		   show me who is logged in (don’t be disappointed if it’s only you)
 
 date		remind me what day today is (shows the time too)
 
-ps		    list my running processes (might just be your shell and the “ps” command)
+ps		   list my running processes (might just be your shell and the “ps” command)
 ```
 
 ```
